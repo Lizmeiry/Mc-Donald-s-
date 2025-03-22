@@ -166,17 +166,3 @@ footer {
     font-size: 18px;
 
 }
-
-
-
-@keyframes entradalogo {
-    0% {
-        transform: translateX(200px);
-    }
-}
-
-@keyframes rotacion {
-    0% {
-        transform: rotate(270deg);
-    }
-}
