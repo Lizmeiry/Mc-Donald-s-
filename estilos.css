@@ -14,7 +14,7 @@ header {
     max-width: 1000px;
     min-height: 130px;
     margin: 0 auto;
-    background: #fff;
+    background: #000;
     border-radius: 20px 20px 0 0;
 }
 
@@ -35,7 +35,7 @@ header {
 #menu-horizontal {
     max-width: 1000px;
     min-height: 50px;
-    background: #000;
+    background: #e4e2e2;
     margin: 0 auto;
 }
 
@@ -47,11 +47,11 @@ header {
 
 
 #menu-horizontal a {
-    color: #fff;
+    color: #161414;
     display: block;
     padding: 20px;
     text-decoration: none;
-    background: #000;
+    background: #e4e2e2;
     font-family: Arial;
     font-size: 18px;
 }
@@ -107,7 +107,7 @@ margin-left: 3px;
 #menu-vertical a {
     display: block;
     color: #fff;
-    background: #8B5E3C;
+    background: #7f3b07;
     padding: 10px;
     text-decoration: none;
     margin-bottom: 8px;
@@ -117,7 +117,7 @@ margin-left: 3px;
 }
 
 #menu-vertical a:hover {
-    background: #036;
+    background:rgb;
 }
 
 #menu-vertical a:hover img {
@@ -126,7 +126,7 @@ margin-left: 3px;
 #contenido {
     width: 700px;
     min-height: 700px;
-    background: #fff;
+    background:#b0adad;
     float: right;
     padding: 15px;
     box-sizing: border-box;
@@ -149,16 +149,16 @@ margin-left: 3px;
     margin-right: 10px;
     margin-bottom: 10px;
     width: 250px;
-    border: 1px solid #ccc;
+    border: 1px solid #f67777;
     padding: 5px;
 }
 
 footer {
     max-width: 1000px;
-    background: #000;
+    background: #e4e2e2;
     margin: 0 auto;
     border-radius: 0 0 20px 20px;
-    color: #fff;
+    color: #161414;
     text-align: center;
     padding: 30px;
     box-sizing: border-box;
